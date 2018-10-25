@@ -1,0 +1,37 @@
+body {
+  font-family: Roboto;
+  font-weight: 300;
+  background-color: #FFFBE6
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 40px;
+  color: white;
+}
+
+.nav-color {
+  background-color: #356859
+}
+
+.indentation {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 40px;
+}
+
+.contact-me {
+  width: 80%;
+}
+
+.submit-btn {
+  padding-top: 15px;
+}
